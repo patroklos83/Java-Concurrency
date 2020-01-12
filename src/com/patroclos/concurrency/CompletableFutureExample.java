@@ -19,7 +19,7 @@ public class CompletableFutureExample {
 		future.thenAcceptAsync((r)-> System.out.println(r),executors);
 		
 		
-		
+		System.out.println("Continue doing something else...");
 
 	}
 
