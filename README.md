@@ -21,3 +21,8 @@ CompletableFutureExample
 Demonstrates the use of CompletableFuture
 calls a process Class to process a long lasting job (6 seconds for this example)....
 After completion returns the String finished
+
+ForkJoin -Sum array of numbers- Example
+------------------------
+Demonstrates the use of ForkJoin
+calls a process ForkJoinExample with an array of numbers as to sum all numbers...
